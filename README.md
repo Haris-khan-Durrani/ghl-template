@@ -1,5 +1,3 @@
-# `@cbnsndwch/ghl-app-template`
-
 A base template for full-stack HighLevel Marketplace apps
 
 ## Table of Contents
